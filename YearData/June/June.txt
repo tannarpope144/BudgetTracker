@@ -1,0 +1,10 @@
+0
+0
+0
+Auto/Gas:0:0
+CCU:0:0
+Groceries:0:0
+HBC:0:0
+Medical:0:0
+Restaurant/Entertainment:0:0
+Misc.:0:0
